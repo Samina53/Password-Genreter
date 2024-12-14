@@ -1,0 +1,32 @@
+body{
+  background-color:#003049;
+  color: #fff;
+  text-align: center;
+  margin: 12%;
+}
+
+span{
+  color: #6a994e;
+  border-bottom: 4px solid #6a994e;
+  border-radius: 2px;
+}
+
+input{
+  font-size: 15px;
+  border-radius: 5px;
+  border: none;
+  width: 250px;
+  padding: 10px 20px;
+  display: block;
+  margin: auto;
+}
+
+button{
+margin-top: 20px;
+padding: 10px 20px;
+color: #fff;
+background-color: #6a994e;
+border: none;
+border-radius: 5px;
+font-weight: bold;
+}
